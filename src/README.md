@@ -41,5 +41,3 @@ A modern and clean interface designed to work smoothly across:
 
 ---
 
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
